@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Rahul Kashyap. I build a no. of demo android applications on this account. I also have repositories with problems solved over different domains mostly in java.
+***
+#### Fun Fact: Flutter is love :heart:
+#### Reach me at:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RahulKashyap-blue.svg)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
+[![LinkedIn](https://img.shields.io/badge/Twitter-imkashyap_-red.svg)](https://twitter.com/imkashyap_)
+
