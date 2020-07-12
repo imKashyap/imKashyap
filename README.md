@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Rahul Kashyap. I build a no. of demo android applications on this account. I also have repositories with problems solved over different domains mostly in java.
+I am Rahul Kashyap. I build a no. of demo android applications on this account. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 ***
 #### Fun Fact: Flutter is love :heart:
 #### Reach me at:
