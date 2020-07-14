@@ -1,4 +1,4 @@
-### Hi there 👋
+![My Heading Banner](https://www.canva.com/design/DAEB78qOcn4/4iAZNmzL2zluQsy79qEVRg/view?utm_content=DAEB78qOcn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <!--
 **imKashyap/imKashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,5 @@ I am Rahul Kashyap. I build a no. of demo android applications on this account. 
 #### Fun Fact: Flutter is love :heart:
 #### Reach me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RahulKashyap-blue.svg)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![LinkedIn](https://img.shields.io/badge/Twitter-imkashyap_-red.svg)](https://twitter.com/imkashyap_)
+[![Twitter](https://img.shields.io/badge/Twitter-imkashyap_-red.svg)](https://twitter.com/imkashyap_)
 
