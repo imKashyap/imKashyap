@@ -1,4 +1,5 @@
-![My Heading Banner](https://www.canva.com/design/DAEB78qOcn4/4iAZNmzL2zluQsy79qEVRg/view?utm_content=DAEB78qOcn4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+<img src="/I am Rahul Kashyap.png" alt="My Heading Banner">
 
 <!--
 **imKashyap/imKashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
