@@ -1,5 +1,5 @@
 
-<img src="/I am Rahul Kashyap.png" alt="My Heading Banner">
+<img src="/banner.png" alt="My Heading Banner">
 
 <!--
 **imKashyap/imKashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
