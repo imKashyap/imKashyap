@@ -18,7 +18,8 @@
 ## 👯 I’m looking to collaborate on
 
 * For doing projects for my **Country India**.
-* For doing projects in the field of **Healthcare**.
+##  💬 Ask me about
+Flutter, Firebase, Java, Dart, OOPS and Data Structures.
 ## 😄 Pronouns: 
 He/His
 ## ⚡ Fun fact: 
@@ -26,6 +27,6 @@ Flutter is love :heart:
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RahulKashyap-blue.svg)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
 [![Twitter](https://img.shields.io/badge/Twitter-imkashyap_-red.svg)](https://twitter.com/imkashyap_)
-
+[![Instagram](https://img.shields.io/badge/Instagram-imkashyap_-yellow.svg)](https://www.instagram.com/imkashyap__/)
 ***
 
