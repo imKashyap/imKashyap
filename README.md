@@ -1,7 +1,6 @@
-
+![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)
 <!--
 **imKashyap/imKashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)
 
 Here are some ideas to get you started:
 
