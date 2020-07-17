@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 I am Rahul Kashyap. I build a no. of demo android applications on this account. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 ***
+<img src="https://github-readme-stats.vercel.app/api?username=sayannath&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 #### Fun Fact: Flutter is love :heart:
 #### Reach me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RahulKashyap-blue.svg)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
