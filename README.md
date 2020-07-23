@@ -3,7 +3,7 @@
 ## Hola 👋
 * I am Rahul Kashyap. I build a no. of demo android applications on this account. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 * I am a 2nd year undergraduate under the department of Electrical Engineering in IEM, Kolkata.
-<img src="https://github-readme-stats.vercel.app/api?username=imKashyap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=imKashyap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark">
 
 ***
 
