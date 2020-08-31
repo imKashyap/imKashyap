@@ -1,13 +1,25 @@
 
 ![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)
-## Hola 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+## Hola <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
 * I am Rahul Kashyap. I build a no. of demo android applications on this account. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 * I am a 3rd year undergraduate under the department of Electrical Engineering in IEM, Kolkata.
 
 ***
-<img src="https://github-readme-stats.vercel.app/api?username=imKashyap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark&hide_langs_below=1">
+<img src="https://github-readme-stats.vercel.app/api?username=imKashyap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&layout=compact&theme=dark">
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
 
 ***
 
