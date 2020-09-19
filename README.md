@@ -30,7 +30,7 @@
 
 -  🔭 I’m currently working on projects related to firebase cloud functions and firebase cloud messaging.
 
--  🌱 I’m currently learning things in the domain of MERN Stack and it's implementation in development of flutter applications.I have engaged myself in projects in the domain of Firebase and Android Developement. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+-  🌱 I’m currently learning Laravel and it's implementation in development of flutter applications.I have engaged myself in projects in the domain of Firebase and Android Developement. You can find my work [here](https://github.com/imKashyap?tab=repositories).
 
 -  👯 I’m looking to collaborate on projects for my **Country India**.
 
