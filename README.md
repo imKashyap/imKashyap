@@ -3,7 +3,7 @@
 ## Hola <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-* I am Rahul Kashyap. I build a no. of demo android applications on this account. I also have repositories with problems solved over different domains of competitive coding mostly in java.
+* I am Rahul Kashyap. I build a no. of demo android applications. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 * I am a 3rd year undergraduate under the department of Electrical Engineering in IEM, Kolkata.
 
 ***
