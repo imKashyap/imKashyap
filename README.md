@@ -7,14 +7,10 @@
 * I am a 3rd year undergraduate under the department of Electrical Engineering in IEM, Kolkata.
 
 ***
-<details close>
- <summary> 😇 <b>My Github Stats</b> </summary>
-<br>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=imKashyap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&layout=compact&theme=dark">
-[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)
- </p>
-</details>
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=imKashyap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&layout=compact&theme=dark">
+ <!--[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
 
 **Languages and Tools:**  
 
@@ -37,7 +33,7 @@
 
 -  🔭 I’m currently working on projects related to firebase cloud functions and firebase cloud messaging.
 
--  🌱 I’m currently learning Laravel and it's implementation in development of flutter applications.I have engaged myself in projects in the domain of Firebase and Android Developement. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+-  🌱 I’m currently learning React.I have engaged myself in projects in the domain of Firebase and Android Developement. You can find my work [here](https://github.com/imKashyap?tab=repositories).
 
 -  👯 I’m looking to collaborate on projects for my **Country India**.
 
