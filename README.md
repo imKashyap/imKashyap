@@ -7,7 +7,14 @@
 * I am a 3rd year undergraduate under the department of Electrical Engineering in IEM, Kolkata.
 
 ***
+<details close>
+ <summary> 😇 <b>My Github Stats</b> </summary>
+<br>
+<p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=imKashyap&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&layout=compact&theme=dark">
+[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)
+ </p>
+</details>
 
 **Languages and Tools:**  
 
@@ -41,9 +48,11 @@
 -  ⚡ Fun fact: I feel my repositories are the only trustworthy place to **commit**. You getting it? 😂
 
 -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RahulKashyap-blue.svg)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Twitter](https://img.shields.io/badge/Twitter-imkashyap_-red.svg)](https://twitter.com/imkashyap_)
-[![Instagram](https://img.shields.io/badge/Instagram-imkashyap_-yellow.svg)](https://www.instagram.com/imkashyap__/)
+[![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
+[![Twitter](https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imkashyap_)
+[![Instagram](https://img.shields.io/badge/-imkashyap__-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/imkashyap__/)
+[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com)
+
 ***
 
 <div align="center">
