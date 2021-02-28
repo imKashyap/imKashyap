@@ -42,7 +42,7 @@
 
 -  😄 Pronouns: He/His
 
--  ⚡ Fun fact: I feel my repositories are the only trustworthy place to **commit**. 😂
+-  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
 
 -  📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
