@@ -1,6 +1,6 @@
 
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-## Hola <img src="https://github.com/ommiy2j/ommiy2j/blob/main/images/hi.gif" width="28px" alt="waving hand" /> 
+## Hola <img src="./assets/hi.gif" width="28px" alt="waving hand" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
 * I am Rahul Kashyap. I build a no. of android applications with flutter as well as kotlin. I also have repositories with problems solved over different domains of competitive coding mostly in java.
@@ -12,23 +12,33 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&layout=compact&theme=dark">
  <!--[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
 
-**Languages and Tools:**  
 
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br>
-<br>
+***
 
+**🛠 &nbsp;Tech Stack**
+
+- Languages: &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+
+- Frameworks: &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+- Databases:  &nbsp;
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+
+- IDEs: &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
 
 ***
 
