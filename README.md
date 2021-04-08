@@ -32,8 +32,8 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
 
 - Databases:  &nbsp;
-  ![Firestore](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
+  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
 
 - IDEs: &nbsp;
