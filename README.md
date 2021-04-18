@@ -43,13 +43,13 @@
 
 ***
 
--  🔭 I’m currently working on projects related to firebase cloud functions and firebase cloud messaging.
+-  🔭 I’m currently working on building Custom servers using NodeJs or Dart shelf package.
 
--  🌱 I’m currently learning React.I have engaged myself in projects in the domain of Firebase and Android Developement. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+-  🌱 I’m currently learning React.I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
 
 -  👯 I’m looking to collaborate on projects for my **Country India**.
 
--  💬 Ask me about Flutter, Firebase, Java, Dart, OOPS and Data Structures.
+-  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS and Data Structures.
 
 -  😄 Pronouns: He/His
 
