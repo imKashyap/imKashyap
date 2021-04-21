@@ -8,8 +8,8 @@
 
 ***
 <p align = "center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="imkashyap" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=onedark&hide_border=true&layout=compact">
+  <img  src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="imkashyap" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=onedark&hide_border=true&layout=compact">
 </p>
 
  <!--[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
