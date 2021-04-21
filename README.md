@@ -1,15 +1,15 @@
 
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
 ## Hola <img src="./assets/hi.gif" width="28px" alt="waving hand" /> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
 * I am Rahul Kashyap. I build a no. of android applications with flutter as well as kotlin. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 * I am a 3rd year undergraduate under the department of Electrical Engineering in IEM, Kolkata.
 
 ***
 <p align = "center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="imkashyap" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=onedark&hide_border=true&layout=compact">
+  <img  src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark&hide_border=true&layout=compact">
 </p>
 
  <!--[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
