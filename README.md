@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
 * I am Rahul Kashyap. I build a no. of android applications with flutter as well as kotlin. I also have repositories with problems solved over different domains of competitive coding mostly in java.
-* I am a 3rd year undergraduate under the department of Electrical Engineering in IEM, Kolkata.
+* I am a 3rd year undergraduate under the department of Electrical Engineering in [IEM, Kolkata](https://iem.edu.in/).
 
 ***
 <p align = "center">
@@ -65,13 +65,13 @@ Linux                    14 hrs 6 mins       ███████████�
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
 
 ***
 
 -  🔭 I’m currently working on building Custom servers using NodeJs or Dart shelf package.
 
--  🌱 I’m currently learning React.I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+-  🌱 I’m currently learning React. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
 
 -  👯 I’m looking to collaborate on projects for my **Country India**.
 
