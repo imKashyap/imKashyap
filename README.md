@@ -12,8 +12,11 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark&hide_border=true&layout=compact">
 </p>
 
- <!--[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
+<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
+***
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 ***
 
 **🛠 &nbsp;Tech Stack**
