@@ -95,6 +95,8 @@ Linux                    15 hrs 37 mins      ███████████�
 
 ***
 
+![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
