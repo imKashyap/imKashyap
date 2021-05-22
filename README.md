@@ -15,7 +15,7 @@
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
 ***
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+**📊 This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
