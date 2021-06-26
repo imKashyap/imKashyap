@@ -7,6 +7,7 @@
 * I am a 3rd year undergraduate under the department of Electrical Engineering in [IEM, Kolkata](https://iem.edu.in/).
 
 ***
+**⚙️ &nbsp;GitHub Analytics**
 <p align = "center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark&hide_border=true&layout=compact">
