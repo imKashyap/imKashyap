@@ -21,3 +21,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_PROJECTS: "False"
