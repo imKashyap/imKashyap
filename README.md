@@ -24,18 +24,18 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     14 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/01/2022
+ Last Updated on 13/01/2022
 <!--END_SECTION:waka-->
 ***
 
