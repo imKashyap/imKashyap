@@ -10,7 +10,7 @@
 <a href="mailto:rahulkashyap4041@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
 * I build a no. of android applications with flutter as well as kotlin. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 * I am a 4th year undergraduate under the department of Electrical Engineering in [IEM, Kolkata](https://iem.edu.in/).
