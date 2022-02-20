@@ -1,8 +1,14 @@
 
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
 <p align="center"> <h1 align="center"> Hi, I am Rahul Kashyap <img src="./assets/hi.gif" width="28px" alt="waving hand" /> </h1></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/imkashyap/"><img src="https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white"/> </a>
+<a href="https://twitter.com/imkashyap_/"><img src="https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white"/> </a>
+<a href="https://www.instagram.com/imkashyap__/"><img src="https://img.shields.io/badge/-imkashyap__-833ab4?style=flat&logo=Instagram&logoColor=white"/> </a>
+<a href="mailto:rahulkashyap4041@gmail.com"><img src="https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white"/> </a>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
 * I build a no. of android applications with flutter as well as kotlin. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 * I am a 4th year undergraduate under the department of Electrical Engineering in [IEM, Kolkata](https://iem.edu.in/).
@@ -80,11 +86,11 @@ No Activity Tracked This Week
 
 -  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
 
--  📫 How to reach me:
+<!-- -  📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
 [![Twitter](https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imkashyap_)
 [![Instagram](https://img.shields.io/badge/-imkashyap__-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/imkashyap__/)
-[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
 
 ***
 
