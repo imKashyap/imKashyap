@@ -1,9 +1,10 @@
 
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-## Hola <img src="./assets/hi.gif" width="28px" alt="waving hand" /> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<p align="center"> <h1 align="center"> Hi, I am Rahul Kashyap <img src="./assets/hi.gif" width="28px" alt="waving hand" /> </h1></p>
 
-* I am Rahul Kashyap. I build a no. of android applications with flutter as well as kotlin. I also have repositories with problems solved over different domains of competitive coding mostly in java.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+
+* I build a no. of android applications with flutter as well as kotlin. I also have repositories with problems solved over different domains of competitive coding mostly in java.
 * I am a 4th year undergraduate under the department of Electrical Engineering in [IEM, Kolkata](https://iem.edu.in/).
 
 ***
