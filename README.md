@@ -25,7 +25,7 @@
 </table>
 
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
-***
+<!-- *** -->
 <!--START_SECTION:waka-->
 <!-- Uncomment just belwo portion for wakatime -->
 <!-- 📊 **This Week I Spent My Time On** 
