@@ -12,8 +12,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-* I build a no. of android applications with flutter as well as kotlin. I also have repositories with problems solved over different domains of competitive coding mostly in java.
-* I am a 4th year undergraduate under the department of Electrical Engineering in [IEM, Kolkata](https://iem.edu.in/).
+* I am a final year undergraduate student under the department of Electrical Engineering in [IEM, Kolkata](https://iem.edu.in/).
+* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
+* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
@@ -83,7 +84,7 @@ No Activity Tracked This Week
 
 -  👯 I’m looking to collaborate on projects for my **Country India**.
 
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS and Data Structures.
+-  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
 
 -  😄 Pronouns: He/His
 
