@@ -34,20 +34,18 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     16 mins             █████████████████░░░░░░░░   69.54% 
-Groovy                   7 mins              ███████░░░░░░░░░░░░░░░░░░   30.46%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████░░░░   86.17% 
-Android Studio           3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.83%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/03/2022 18:47:45 UTC
+ Last Updated on 18/03/2022 18:47:24 UTC
 <!--END_SECTION:waka-->
 ***
 
