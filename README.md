@@ -28,7 +28,7 @@
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
 <!-- *** -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,7 +49,7 @@ Linux                    16 mins             ███████████�
 ```
 
 
- Last Updated on 11/05/2022 18:51:00 UTC
+ Last Updated on 12/05/2022 18:53:10 UTC
 <!--END_SECTION:waka-->
 ***
 
