@@ -36,18 +36,18 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 27/05/2022 18:52:05 UTC
+ Last Updated on 28/05/2022 18:49:45 UTC
 <!--END_SECTION:waka-->
 ***
 
