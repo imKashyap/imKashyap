@@ -28,7 +28,7 @@
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
 <!-- *** -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2050%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,7 +47,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/06/2022 18:48:41 UTC
+ Last Updated on 07/06/2022 04:48:46 UTC
 <!--END_SECTION:waka-->
 ***
 
