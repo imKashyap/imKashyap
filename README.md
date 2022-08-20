@@ -1,6 +1,9 @@
 
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<p align="center"> <h1 align="center"> Hi, I am Rahul Kashyap 👋</h1> </p>
+<p align="center"> <h1 align="center"> Hi, I am Rahul Kashyap <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/imkashyap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://leetcode.com/imkashyap/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
