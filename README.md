@@ -67,14 +67,12 @@ No Activity Tracked This Week
 - Languages: &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 
 - Frameworks: &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=B7C220)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
 
 - Databases:  &nbsp;
