@@ -14,7 +14,7 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
-
+* I am a Software Engineer at Samsung. My skills at work include Java, Spring, gRPC.
 * I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
 * I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
 * I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
