@@ -88,11 +88,9 @@ No Activity Tracked This Week
 
 ***
 
--  🔭 I’m currently working on building Custom servers using NodeJs or Dart shelf package.
+-  🔭 I’m currently building backend in Java.
 
--  🌱 I’m currently learning React. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
-
--  👯 I’m looking to collaborate on projects for my **Country India**.
+-  🌱 I’m currently learning more in Spring as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
 
 -  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
 
