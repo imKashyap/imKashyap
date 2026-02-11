@@ -29,31 +29,6 @@
   </tr>
 </table>
 
-<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
-<!-- *** -->
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
-<!--
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
- Last Updated on 24/09/2022 18:53:40 UTC
--->
- 
-<!--END_SECTION:waka-->
 ***
 **♨️ &nbsp;DSA Analytics**
 
