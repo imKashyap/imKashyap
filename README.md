@@ -8,10 +8,12 @@
        width="40" />
 </h1>
 
-<p align="center">
-  Backend Engineer • Distributed Systems • GenAI Platforms
-</p>
 
+<section align="center">
+  <blockquote style="font-style: italic; opacity: 0.85;">
+    Backend Engineer • Distributed Systems • GenAI Platforms
+  </blockquote>
+</section>
 
 ## 👨‍💻 About Me
 
